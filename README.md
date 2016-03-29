@@ -3,6 +3,7 @@ head management for react
 
 a typical head
 
+```html
 <head>
     <link rel="alternate" type="application/rss+xml" title="RSS" href="bla.com/feed.rss">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -18,3 +19,4 @@ a typical head
     <link rel="alternate" type="application/rss+xml" title="RSS" href="http://primemind.com/feed.rss">
   <script type="text/javascript" src="xxx.js"></script>
 </head>
+```
